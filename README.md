@@ -2,13 +2,13 @@
 <h3 align="center">Full Stack Developer | AI Enthusiast | BSc IT Student</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mohd-sohel-ansari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
-  <a href="https://YOUR_VERCEL_LINK" target="_blank">
+  <a href="https://mohdsohel-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="sa8764981L@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
   </a>
 </p>
@@ -80,8 +80,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: YOUR_EMAIL@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- 📧 Email: sa8764981L@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mohd-sohel-ansari
 
 ⭐ If you like my work, give a star!
 
