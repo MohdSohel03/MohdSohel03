@@ -8,7 +8,7 @@
   <a href="https://mohdsohel-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel" />
   </a>
-  <a href="sa8764981L@gmail.com">
+  <a href="sa8764981@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
   </a>
 </p>
