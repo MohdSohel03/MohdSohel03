@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Sohel Ansari</h1>
+<h1 align="center">Hi 👋, I'm Sohel Ansari</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | BSc IT Student</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="https://mohdsohel-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:sa87649810@gmail.com">
+  <a href="mailto:sa8764981@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -17,54 +17,84 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BSc IT Student  
-- 🤖 Building AI-powered web applications  
-- 🔥 Currently working on **AI-Based Career Counselor**
-- 🌱 Learning **Supabase, Vercel, System Design**
-- 💬 Ask me about **React, Supabase, Tailwind, Auth**
+I’m a **BSc IT student and Full Stack Developer** with hands-on experience in building **AI-powered web applications**.  
+I enjoy solving real-world problems using **modern frontend, backend, and cloud technologies**.
+
+- 🎓 BSc IT (Final Year)
+- 🤖 Strong interest in **AI + Web Development**
+- 🔥 Currently building **AI-Based Career Counselor**
+- 🌱 Learning **System Design, Supabase, Cloud Deployment**
+- 💬 Ask me about **React, Supabase, Auth, Tailwind**
 
 ---
 
 ## 🚀 Featured Project
 
 ### 🧠 AI-Based Career Counselor Application
-🔗 **Live:** https://careergpt-ai-counselor.vercel.app/  
-📦 **Repo:** https://github.com/MohdSohel03/eduguide-ai  
+
+🔗 **Live Demo:** https://careergpt-ai-counselor.vercel.app/  
+📦 **GitHub Repo:** https://github.com/MohdSohel03/eduguide-ai  
 
 **Tech Stack**
 - React + TypeScript
-- Supabase (Auth + DB)
+- Supabase (Authentication & Database)
 - Tailwind CSS
+- PostgreSQL
 - Vercel Deployment
-- Gemini AI
+- Gemini AI (Career Guidance)
+
+**Key Features**
+- Secure Login & Signup (Supabase Auth)
+- AI-based Career Recommendations
+- Resume Analysis & Suggestions
+- Course & Skill Recommendations
+- Clean, responsive UI
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 **Frontend**
-- React, TypeScript, Tailwind CSS
+- React
+- TypeScript
+- Tailwind CSS
+- HTML, CSS, JavaScript
 
-**Backend / Cloud**
-- Supabase, PostgreSQL, Vercel
+**Backend & Cloud**
+- Supabase
+- PostgreSQL
+- REST APIs
+- Vercel
 
 **Tools**
-- Git, GitHub, Postman, VS Code
+- Git & GitHub
+- Postman
+- VS Code
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Other Projects
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohdSohel03" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdSohel03&theme=radical&cache_seconds=1800" />
-</p>
+- 🔹 **Freelancing Platform** – Client & freelancer matching system  
+- 🔹 **Inventory Management System** – CRUD-based full-stack app  
+- 🔹 **AI Interview Preparation Tool** – Mock interview & feedback system  
+
+👉 Check pinned repositories below ⬇️
+
+---
+
+## 🎯 What I’m Looking For
+
+- Full Stack Developer Internship / Fresher Role
+- AI / Web Development Projects
+- Collaborative learning & open-source contributions
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: sa8764981@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/mohd-sohel-ansari  
+- 📧 Email: **sa8764981@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/mohd-sohel-ansari
+- 🌐 Portfolio: https://mohdsohel-portfolio.vercel.app
 
-⭐ If you like my work, give a star!
+⭐ If you like my work, feel free to star my repositories!
