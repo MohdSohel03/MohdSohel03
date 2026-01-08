@@ -28,7 +28,7 @@
 ## 🚀 Featured Project
 
 ### 🧠 AI-Based Career Counselor Application
-🔗 **Live:** https://eduguide-ai-woad.vercel.app/
+🔗 **Live:** https://careergpt-ai-counselor.vercel.app/
 📦 **Repo:** https://github.com/MohdSohel03/eduguide-ai
 
 **Tech Stack:**
