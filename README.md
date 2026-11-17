@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohel Ansari</h1>
+<h1 align="center">Hi 👋, I'm Mohd Sohel Ansari</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | BSc IT Student</h3>
 
 <p align="center">
